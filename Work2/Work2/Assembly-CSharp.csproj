@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\MoveMotionPack\SampleScene\Scripts\PlayManager.cs" />
+    <Compile Include="Assets\Scripts\PlayeMmovement.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\MoveMotionPack\SampleScene\Shaders\ReflectiveDiffuseSpecTransp.shader" />
